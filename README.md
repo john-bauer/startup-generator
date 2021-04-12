@@ -11,13 +11,11 @@ This repository contains only the client-side, which is built with Vue 3. Aside 
 
 On the server-side, I'm using Firebase. Most notably, I'm using the [translate text extension](https://firebase.google.com/products/extensions/firestore-translate-text), which makes translations a breeze.
 
-## Try It Out
-You can try the project out at ADD LINK.
+## Live Demo
+You can try the project out [here](https://startup-generator.netlify.app/).
 
 ## License, Contribution, and Use
 
 License is [MIT](https://opensource.org/licenses/MIT), so feel free to use the source code for your own purposes.
 
-I'm always open to collaboration. Please be aware that if you want to run this project locally, you'll need to configure a backend for it. You can reach out to me through my [website](https://www.johnbauer.me/contact) if you'd like to chat more about it.# startup-generator
-# startup-generator
-# startup-generator
+I'm always open to collaboration. Please be aware that if you want to run this project locally, you'll need to configure a backend for it. You can reach out to me through my [website](https://www.johnbauer.me/contact) if you'd like to chat more about it.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kyan</title>
+    <g id="kyan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#000000">
+            <path d="M97.23,104.53 C71.6561463,78.4028385 36.6302249,63.6873372 0.07,63.7099739 L0.07,136.43 C28.015109,136.464485 52.672549,154.714235 60.87,181.43 C64.7106082,152.642924 77.418706,125.765787 97.23,104.53 L97.23,104.53 Z" id="Path"></path>
+            <path d="M199.93,63.71 L199.93,136.43 C164.839532,136.474077 136.404077,164.909532 136.36,200 L63.64,200 C63.64,124.85 124.78,63.71 199.93,63.71 Z" id="Path"></path>
+            <circle id="Oval" cx="100" cy="36" r="36"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hex-lab</title>
+    <g id="hex-lab" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(28.000000, 0.000000)" fill="#000000">
+            <polygon id="Path" points="30 142.35 30 97.65 72 74.32 114 97.65 114 142.35 72 165.68"></polygon>
+            <path d="M97,53.89 L97,19 L110,19 L110,0 L34,0 L34,19 L47,19 L47,53.89 L0,80 L0,160 L72,200 L144,160 L144,80 L97,53.89 Z M40,13 L40,6 L104,6 L104,13 L40,13 Z M138,156.47 L72,193.14 L6,156.47 L6,83.53 L49.91,59.13 L53,57.42 L53,19 L91,19 L91,57.42 L94.09,59.13 L138,83.53 L138,156.47 Z" id="Shape" fill-rule="nonzero"></path>
+            <circle id="Oval" cx="70.5" cy="51.5" r="7.5"></circle>
+            <circle id="Oval" cx="62.5" cy="28.5" r="4.5"></circle>
+            <circle id="Oval" cx="80.25" cy="30.75" r="2.25"></circle>
+            <circle id="Oval" cx="91" cy="73" r="3"></circle>
+            <circle id="Oval" cx="45" cy="81" r="3"></circle>
+        </g>
+    </g>
+</svg>
