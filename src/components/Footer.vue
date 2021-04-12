@@ -6,7 +6,7 @@
       <div class="grid">
         <p class="text-gray-200 text-center text-base mt-10">
           <span class="font-bold">Startup Generator</span> by John Bauer. The
-          source code is licensed MIT. The website content is licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC
+          source code is licensed <a href="https://opensource.org/licenses/MIT">MIT</a>. The website content is licensed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC
           SA 4.0.</a>
         </p>
         <div>
