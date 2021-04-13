@@ -9,7 +9,7 @@
 <script>
 import GithubCorner from "@/components/GithubCorner.vue";
 import Footer from "@/components/Footer.vue";
-import firebase from "@/services/firebase.js";
+// import firebase from "@/services/firebase.js";
 import { signInAnonymously } from "@/services/authService.js";
 
 export default {
@@ -18,9 +18,9 @@ export default {
     GithubCorner,
     Footer,
   },
-  mounted() {
-    console.log(firebase);
-  },
+  // mounted() {
+    
+  // },
   beforeMount() {
     signInAnonymously();
   },

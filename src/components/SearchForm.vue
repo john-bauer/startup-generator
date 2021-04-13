@@ -125,7 +125,7 @@ export default {
             input: this.input,
           })
           .then((newDoc) => {
-            console.log(newDoc.id);
+            // console.log(newDoc.id);
             firebase
               .firestore()
               .collection("translations")
@@ -135,7 +135,6 @@ export default {
                 if (doc.data().translated !== undefined) {
                   this.translations = [];
                   const payload = doc.data().translated;
-                  console.log(Object.keys(payload));
                   for (let i = 0; i < Object.keys(payload).length; i++) {
                     let currentLang = Object.keys(payload)[i];
                     let langFull;

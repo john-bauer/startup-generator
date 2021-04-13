@@ -23,7 +23,6 @@ export default {
     const families = ['gibson', 'acumin', 'nimbus', 'soleil']
     const randomFamilyNum = Math.floor(Math.random() * 4);
     this.family = families[randomFamilyNum]
-    console.log(this.family)
   },
   computed: {
     classes() {
